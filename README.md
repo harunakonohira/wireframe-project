@@ -19,7 +19,7 @@ Claude CodeとFigma MCPを使って、ヒアリングシートからワイヤー
 
 ## はじめる前に必要なもの
 
-- [ ] VSCode（インストール済み）
+- [ ] VSCode
 - [ ] Claude Code for VS Code（VSCodeの拡張機能）
 - [ ] Claudeのアカウント（ProまたはMaxプラン）
 - [ ] Figmaのアカウント（プロフェッショナルプラン以上）
